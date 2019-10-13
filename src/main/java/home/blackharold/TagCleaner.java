@@ -34,6 +34,6 @@ public class TagCleaner {
         /**
          * Uncomment the string that to see what you counting
          */
-        System.out.println(string + "\nlength: " + string.length());
+        System.out.println(/*string + */"\nlength: " + string.length());
     }
 }
